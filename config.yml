@@ -1,0 +1,36 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenBossBarMsg"
+
+# Tutaj mozna ustawic poczatkowa wiadomosc do BossBara:
+first_message_bossbar: "&8>> &aWitaj na serwerze!"
+
+# Tutaj mozna ustawic liste wiadomosci do BossBara:
+bossbar:
+  wiadomosci:
+    - '&8>> &bPierwsza Wiadomosc...'
+    - '&8>> &cDruga Wiadomosc...'
+    - '&8>> &dTrzecia Wiadomosc...'
+    - '&8>> &eCzwarta Wiadomosc...'
+
+# Tutaj mozna ustawic kolor BossBara:
+# Kolory do dyspozycji:
+# - BLUE
+# - GREEN
+# - PINK
+# - PURPLE
+# - RED
+# - WHITE
+# - YELLOW
+bossbar_color: "BLUE"
+
+# Tutaj mozna ustawic wyglad BossBara:
+# Stylizacje do dyspozycji:
+# - SEGMENTED_6
+# - SEGMENTED_10
+# - SEGMENTED_12
+# - SEGMENTED_20
+# - SOLID
+bossbar_style: "SOLID"
+
+# Tutaj mozna wlaczyc i wylaczyc funkcje dostawania informacji o pluginie:
+plugin_info: true
